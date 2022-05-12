@@ -46,14 +46,12 @@ h1{
 }
 .out_put{
   padding-bottom: 2rem;
-  line-height: 1.5;
   color:   hsl(334, 100%, 50%);
   font-size: 1.5rem;
   font-weight: 300;
 }
 i{
   font-weight: 500;
-  line-height: 1.3;
   font-size: 1.1rem;
 }
 .description{
