@@ -52,7 +52,9 @@ h1{
 }
 i{
   font-weight: 500;
+  line-height: 1.3;
   font-size: 1.1rem;
+  padding-top: 1rem;
 }
 .description{
   padding-bottom: 2rem;
