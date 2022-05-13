@@ -38,7 +38,7 @@ document.getElementById('score').innerHTML = ("Your ❤️ score is "
  }
  if (score > 30 && score <= 70) {
    document.getElementById('message').innerHTML = "Dear "+ capName + " and " + capTheirs + " something good can still come out of your love lives, Just Believe!🥰";
-   document.getElementById('message').style.color = "yellow";
+   document.getElementById('message').style.color = "#ff8d29";
  }
   else {
    return false;
