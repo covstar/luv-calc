@@ -49,7 +49,7 @@ h1{
   padding-bottom: 2rem;
   color:   hsl(334, 100%, 50%);
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 600;
 }
 i{
   font-weight: 500;
@@ -111,7 +111,7 @@ button:hover{
           padding-top: 1rem;
         }
                 .form input {
-                  width: 70%;
+                  width: 100%;
                 }
 }
 
@@ -124,6 +124,6 @@ button:hover{
       justify-content: center;
     }
         .form input {
-          width: 70%;
+          width: 100%;
         }
 }
